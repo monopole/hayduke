@@ -1,3 +1,5 @@
 module github.com/monopole/hayduke/api/v2
 
 go 1.13
+
+require github.com/monopole/hayduke/foo/v2 v2.0.0

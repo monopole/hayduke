@@ -1,2 +1,5 @@
-github.com/monopole/hayduke v0.0.0-20191023192131-3d6ea0610120 h1:wYByUkdM9KsW8wk5tUoE4/mohGTncKTncUqVdQyGSlg=
 github.com/monopole/hayduke/api v1.0.0 h1:DvkWc4g3I6dFwfiAgzuatzAbAFybX1PObJddOG8T9sk=
+github.com/monopole/hayduke/api v1.0.0/go.mod h1:dVgL31On1FoCaRqTYLgFBoFIgVSnrxx1q2a/65Y/KWg=
+github.com/monopole/hayduke/api/v2 v2.0.0/go.mod h1:9KMdg2yFqtWHNW6AickOs10Q+547QneoZ2bkxqnUODw=
+github.com/monopole/hayduke/foo/v2 v2.0.0 h1:AofT0RmLpZEKMw7YPm9q1FcfpzbaqvMCTP0GD8/gbv8=
+github.com/monopole/hayduke/foo/v2 v2.0.0/go.mod h1:y9LmQTVY1nHlnwOguwn4jRb8+swCPD0H3bLj9xDqyVU=
