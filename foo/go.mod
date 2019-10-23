@@ -1,4 +1,4 @@
-module github.com/monopole/hayduke/foo
+module github.com/monopole/hayduke/foo/v2
 
 go 1.13
 
