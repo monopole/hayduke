@@ -3,13 +3,12 @@ package prefixer_test
 import (
 	"testing"
 
-	. "github.com/monopole/hayduke/api/prefixer"
+	. "github.com/monopole/hayduke/api/v2/prefixer"
 )
 
 func TestPrefix(t *testing.T) {
-  bob := "bob"
-  other := Prefix(bob)
-  if other != "hayduke-bob" {
+  other := Prefix("eat", "salad")
+  if other != "eat-kale-salad" {
     t.Errorf("unexpected other: %s", other)
   }
 }
