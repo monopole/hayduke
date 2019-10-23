@@ -4,4 +4,6 @@ github.com/monopole/hayduke/api v1.0.0/go.mod h1:dVgL31On1FoCaRqTYLgFBoFIgVSnrxx
 github.com/monopole/hayduke/api/v2 v2.0.0/go.mod h1:9KMdg2yFqtWHNW6AickOs10Q+547QneoZ2bkxqnUODw=
 github.com/monopole/hayduke/api/v2 v2.0.1 h1:xUP5iNdcvWB8gnmUxn+TSPDPXFUbuGq60gzEaC8ibwM=
 github.com/monopole/hayduke/api/v2 v2.0.1/go.mod h1:oPuYF47uZBbLId0D4lHahBu2+5KbEe04hNiVnoF/FVw=
+github.com/monopole/hayduke/api/v2 v2.0.2 h1:4+u54J0QywsM2ncWD4+32ZM5mzxqKELQqDfvAujnDFo=
+github.com/monopole/hayduke/api/v2 v2.0.2/go.mod h1:oPuYF47uZBbLId0D4lHahBu2+5KbEe04hNiVnoF/FVw=
 github.com/monopole/hayduke/foo/v2 v2.0.0/go.mod h1:y9LmQTVY1nHlnwOguwn4jRb8+swCPD0H3bLj9xDqyVU=
