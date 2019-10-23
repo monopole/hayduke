@@ -8,7 +8,7 @@ import (
 
 func TestPrefix(t *testing.T) {
   other := Prefix("eat", "salad")
-  if other != "eat-kale-salad" {
+  if other != "eat-celery-salad" {
     t.Errorf("unexpected other: %s", other)
   }
 }
